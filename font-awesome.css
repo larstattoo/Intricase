@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://rawcdn.githack.com/larstattoo/Intricase/4828aff113ff6d0a0b93d39972711cdabe1dab37/fontawesome-webfont.eot?v=4.7.0');
-  src: url('https://rawcdn.githack.com/larstattoo/Intricase/4828aff113ff6d0a0b93d39972711cdabe1dab37/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https://rawcdn.githack.com/larstattoo/Intricase/4828aff113ff6d0a0b93d39972711cdabe1dab37/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://rawcdn.githack.com/larstattoo/Intricase/4828aff113ff6d0a0b93d39972711cdabe1dab37/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://rawcdn.githack.com/larstattoo/Intricase/4828aff113ff6d0a0b93d39972711cdabe1dab37/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://rawcdn.githack.com/larstattoo/Intricase/4828aff113ff6d0a0b93d39972711cdabe1dab37/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg')
+  src: url('https://rawcdn.githack.com/larstattoo/Intricase/8a6e5974e68ae5e0a3570740294b47dfcf7664ba/fontawesome-webfont.eot?v=4.7.0');
+  src: url('https://rawcdn.githack.com/larstattoo/Intricase/8a6e5974e68ae5e0a3570740294b47dfcf7664ba/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https://rawcdn.githack.com/larstattoo/Intricase/8a6e5974e68ae5e0a3570740294b47dfcf7664ba/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://rawcdn.githack.com/larstattoo/Intricase/8a6e5974e68ae5e0a3570740294b47dfcf7664ba/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://rawcdn.githack.com/larstattoo/Intricase/8a6e5974e68ae5e0a3570740294b47dfcf7664ba/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://rawcdn.githack.com/larstattoo/Intricase/8a6e5974e68ae5e0a3570740294b47dfcf7664ba/glyphicons-halflings-regular.svg?v=4.7.0#fontawesomeregular') format('svg')
   font-weight: normal;
   font-style: normal;
 }
